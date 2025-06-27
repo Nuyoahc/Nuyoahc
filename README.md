@@ -1,10 +1,28 @@
-## Hi there 👋
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nuyoahc&show_icons=true&theme=tokyonight" /> </div>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahc" /> </div>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nuyoahc" /> </div>
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nuyoahc&theme=xcode" /> </div>
+## Hi 👋 I'm Nuyoahc
+## 📊 数据
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Nuyoahc&show_icons=true&theme=tokyonight" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nuyoahc" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahc" />
+      </td>
+    </tr>
+  </table>
+</div>
 
+<div align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nuyoahc&theme=xcode" /> 
+</div>
 
+📧 **其他**: 
+[![Gitee](https://img.shields.io/badge/Gitee-NuyoahC-C71D23?logo=gitee)](https://gitee.com/nuyoahc)
+[![CSDN](https://img.shields.io/badge/CSDN-nuyoahc-blueviolet?logo=gitee)](https://blog.csdn.net/m0_74317866?type=blog)
 
 
 <!--
