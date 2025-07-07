@@ -6,6 +6,13 @@
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=Nuyoahc&show_icons=true&theme=tokyonight" />
       </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nuyoahc" />
       </td>
